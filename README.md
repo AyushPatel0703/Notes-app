@@ -1,4 +1,4 @@
-# Notes App
+# Notes App  (React + Vite)
 
 A simple and fast Notes Application built with React and Vite. This app allows users to create, edit, and delete notes. It demonstrates how to use Vite for rapid development and modern build processes with React.
 
