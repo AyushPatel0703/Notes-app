@@ -1,8 +1,17 @@
-# React + Vite
+# Notes App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and fast Notes Application built with React and Vite. This app allows users to create, edit, and delete notes. It demonstrates how to use Vite for rapid development and modern build processes with React.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- **Create Notes**: Add new notes with a title and content.
+- **Edit Notes**: Modify existing notes.
+- **Delete Notes**: Remove notes as needed.
+- **Search Notes**: Quickly find notes using a search feature.
+- **Responsive Design**: Works on both desktop and mobile devices.
+
+## Technologies
+
+- **React**: A JavaScript library for building user interfaces.
+- **Vite**: A modern build tool that provides fast development and optimized builds.
